@@ -8849,23 +8849,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikis P\\.nuget\\packages\\": {},
+    "C:\\Users\\nikol\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikis P\\source\\repos\\TecTradeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\nikol\\Source\\Repos\\TecTradeAPI\\TecTradeAPI.csproj",
       "projectName": "TecTradeAPI",
-      "projectPath": "C:\\Users\\Mikis P\\source\\repos\\TecTradeAPI.csproj",
-      "packagesPath": "C:\\Users\\Mikis P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikis P\\source\\repos\\obj\\",
+      "projectPath": "C:\\Users\\nikol\\Source\\Repos\\TecTradeAPI\\TecTradeAPI.csproj",
+      "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nikol\\Source\\Repos\\TecTradeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mikis P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8936,7 +8936,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
